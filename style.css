@@ -1,0 +1,36 @@
+.background{
+    background-color: rgb(255, 236, 212);
+  }
+  
+  .h1{
+    background-color: aquamarine;
+      color-interpolation-filters: auto;
+      text-align: center;
+      color: rgb(0, 21, 255);
+  }
+  
+  .h3{
+    background-color: blueviolet;
+  }
+  
+  #p1{
+    text-align: center;
+    border: 10px solid gold;
+    background-color: brown;
+  }
+  
+  #p{
+    text-align: center;
+    border: 10px solid red;
+    background-color: blueviolet;
+  }
+
+  body{
+
+    background: url(image/vvvvvvvvvvv.jng.jpg);
+    background-size: cover;
+color: rgb(8, 8, 15);
+
+  }
+
+  
